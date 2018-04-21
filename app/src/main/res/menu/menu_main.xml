@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:showAsAction="collapseActionView"
+        android:id="@+id/itm_Ajustes"
+        android:title="Ajustes"
+        android:icon="@drawable/ic_menu_settings_dark"
+        />
+    <item app:showAsAction="collapseActionView"
+        android:id="@+id/itm_AcercaDe"
+        android:title="Acerca de ..."
+        android:icon="@drawable/ic_menu_about_dark"
+        />
+</menu>
